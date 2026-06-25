@@ -1,7 +1,5 @@
 # Zekai AWS Certifications
 
-🌐 [English version](README.en.md)
-
 > Skill para Kiro CLI que gera questões originais de certificação AWS com raciocínio inteligente, dificuldade adaptativa e explicações detalhadas — baseada nos Guias Oficiais de Exame da AWS.
 
 [![Kiro CLI](https://img.shields.io/badge/plataforma-Kiro%20CLI-purple)]()
